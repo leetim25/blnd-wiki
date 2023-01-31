@@ -1,0 +1,15 @@
+.wiki-header {
+  font-size: 3rem;
+  font-weight: 800;
+  text-align: center;
+}
+.wiki-wrapper {
+  display: flex;
+}
+
+.side-menu {
+  margin: auto;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 100px;
+}
