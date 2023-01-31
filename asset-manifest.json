@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd4af879.css",
+    "main.js": "/static/js/main.b1f4fd62.js",
+    "static/js/705.9751e4d4.chunk.js": "/static/js/705.9751e4d4.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/game-mechanic.md": "/static/media/game-mechanic.7507758a55cb0ca555f6.md",
+    "index.html": "/index.html",
+    "main.fd4af879.css.map": "/static/css/main.fd4af879.css.map",
+    "main.b1f4fd62.js.map": "/static/js/main.b1f4fd62.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd4af879.css",
+    "static/js/main.b1f4fd62.js"
+  ]
+}
