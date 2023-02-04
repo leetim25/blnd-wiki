@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/blnd-wiki/static/css/main.fd4af879.css",
-    "main.js": "/blnd-wiki/static/js/main.7e17991f.js",
-    "static/js/705.9751e4d4.chunk.js": "/blnd-wiki/static/js/705.9751e4d4.chunk.js",
+    "main.css": "/blnd-wiki/static/css/main.ff6a2406.css",
+    "main.js": "/blnd-wiki/static/js/main.78952985.js",
+    "static/js/705.7beb362a.chunk.js": "/blnd-wiki/static/js/705.7beb362a.chunk.js",
+    "static/js/730.9f943216.chunk.js": "/blnd-wiki/static/js/730.9f943216.chunk.js",
+    "static/js/226.e2434cda.chunk.js": "/blnd-wiki/static/js/226.e2434cda.chunk.js",
+    "static/js/609.6b240f04.chunk.js": "/blnd-wiki/static/js/609.6b240f04.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/blnd-wiki/static/js/787.28cb0dcd.chunk.js",
-    "static/media/game-mechanic.md": "/blnd-wiki/static/media/game-mechanic.7507758a55cb0ca555f6.md",
+    "static/media/game-mechanic.md": "/blnd-wiki/static/media/game-mechanic.db113c991a44e3bbdab6.md",
     "index.html": "/blnd-wiki/index.html",
-    "main.fd4af879.css.map": "/blnd-wiki/static/css/main.fd4af879.css.map",
-    "main.7e17991f.js.map": "/blnd-wiki/static/js/main.7e17991f.js.map",
+    "static/media/patch-notes.md": "/blnd-wiki/static/media/patch-notes.fb62d930269a6d2b69dd.md",
+    "static/media/strategy.md": "/blnd-wiki/static/media/strategy.4ec33443071f482c14ce.md",
+    "static/media/rewards.md": "/blnd-wiki/static/media/rewards.b14b7004ae4534fcd1fa.md",
+    "main.ff6a2406.css.map": "/blnd-wiki/static/css/main.ff6a2406.css.map",
+    "main.78952985.js.map": "/blnd-wiki/static/js/main.78952985.js.map",
     "787.28cb0dcd.chunk.js.map": "/blnd-wiki/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd4af879.css",
-    "static/js/main.7e17991f.js"
+    "static/css/main.ff6a2406.css",
+    "static/js/main.78952985.js"
   ]
 }

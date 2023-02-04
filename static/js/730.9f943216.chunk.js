@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[730],{730:function(p,a,e){p.exports=e.p+"static/media/patch-notes.fb62d930269a6d2b69dd.md"}}]);
