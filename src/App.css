@@ -13,3 +13,12 @@
   margin-left: 50px;
   margin-right: 100px;
 }
+
+.wiki-content {
+  margin-bottom: 30px;
+}
+
+.menu-item {
+  cursor: pointer;
+  margin-bottom: 10px;
+}

@@ -1,4 +1,4 @@
-An h1 header
+Game Mechanics
 ============
 
 Paragraphs are separated by a blank line.
