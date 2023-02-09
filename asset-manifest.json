@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/blnd-wiki/static/css/main.ff6a2406.css",
-    "main.js": "/blnd-wiki/static/js/main.78952985.js",
-    "static/js/705.7beb362a.chunk.js": "/blnd-wiki/static/js/705.7beb362a.chunk.js",
+    "main.js": "/blnd-wiki/static/js/main.a15323d3.js",
+    "static/js/705.9ef40bc7.chunk.js": "/blnd-wiki/static/js/705.9ef40bc7.chunk.js",
     "static/js/730.9f943216.chunk.js": "/blnd-wiki/static/js/730.9f943216.chunk.js",
-    "static/js/226.e2434cda.chunk.js": "/blnd-wiki/static/js/226.e2434cda.chunk.js",
-    "static/js/609.6b240f04.chunk.js": "/blnd-wiki/static/js/609.6b240f04.chunk.js",
+    "static/js/226.128b729b.chunk.js": "/blnd-wiki/static/js/226.128b729b.chunk.js",
+    "static/js/609.f9a6eba7.chunk.js": "/blnd-wiki/static/js/609.f9a6eba7.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/blnd-wiki/static/js/787.28cb0dcd.chunk.js",
-    "static/media/game-mechanic.md": "/blnd-wiki/static/media/game-mechanic.db113c991a44e3bbdab6.md",
+    "static/media/game-mechanic.md": "/blnd-wiki/static/media/game-mechanic.b8be1f2c8643f500edd9.md",
     "index.html": "/blnd-wiki/index.html",
+    "static/media/strategy.md": "/blnd-wiki/static/media/strategy.4945e0c571a8d5f58f18.md",
+    "static/media/rewards.md": "/blnd-wiki/static/media/rewards.e1eb703500d5d75431be.md",
     "static/media/patch-notes.md": "/blnd-wiki/static/media/patch-notes.fb62d930269a6d2b69dd.md",
-    "static/media/strategy.md": "/blnd-wiki/static/media/strategy.4ec33443071f482c14ce.md",
-    "static/media/rewards.md": "/blnd-wiki/static/media/rewards.b14b7004ae4534fcd1fa.md",
     "main.ff6a2406.css.map": "/blnd-wiki/static/css/main.ff6a2406.css.map",
-    "main.78952985.js.map": "/blnd-wiki/static/js/main.78952985.js.map",
+    "main.a15323d3.js.map": "/blnd-wiki/static/js/main.a15323d3.js.map",
     "787.28cb0dcd.chunk.js.map": "/blnd-wiki/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff6a2406.css",
-    "static/js/main.78952985.js"
+    "static/js/main.a15323d3.js"
   ]
 }

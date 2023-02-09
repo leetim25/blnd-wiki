@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[705],{705:function(a,e,p){a.exports=p.p+"static/media/game-mechanic.db113c991a44e3bbdab6.md"}}]);
