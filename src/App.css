@@ -8,10 +8,8 @@
 }
 
 .side-menu {
-  margin: auto;
-  margin-top: 20px;
-  margin-left: 50px;
-  margin-right: 100px;
+  margin: 20px 50px auto 50px;
+  width: 200px;
 }
 
 .wiki-content {
