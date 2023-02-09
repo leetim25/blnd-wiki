@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blnd-wiki/static/css/main.0970ac3e.css",
+    "main.css": "/blnd-wiki/static/css/main.b9244199.css",
     "main.js": "/blnd-wiki/static/js/main.a15323d3.js",
     "static/js/705.9ef40bc7.chunk.js": "/blnd-wiki/static/js/705.9ef40bc7.chunk.js",
     "static/js/730.9f943216.chunk.js": "/blnd-wiki/static/js/730.9f943216.chunk.js",
@@ -12,12 +12,12 @@
     "static/media/strategy.md": "/blnd-wiki/static/media/strategy.4945e0c571a8d5f58f18.md",
     "static/media/rewards.md": "/blnd-wiki/static/media/rewards.e1eb703500d5d75431be.md",
     "static/media/patch-notes.md": "/blnd-wiki/static/media/patch-notes.fb62d930269a6d2b69dd.md",
-    "main.0970ac3e.css.map": "/blnd-wiki/static/css/main.0970ac3e.css.map",
+    "main.b9244199.css.map": "/blnd-wiki/static/css/main.b9244199.css.map",
     "main.a15323d3.js.map": "/blnd-wiki/static/js/main.a15323d3.js.map",
     "787.28cb0dcd.chunk.js.map": "/blnd-wiki/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0970ac3e.css",
+    "static/css/main.b9244199.css",
     "static/js/main.a15323d3.js"
   ]
 }
