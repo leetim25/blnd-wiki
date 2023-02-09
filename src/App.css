@@ -8,12 +8,16 @@
 }
 
 .side-menu {
-  margin: 20px 50px auto 50px;
-  width: 200px;
+  margin: auto;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 30vh;
 }
 
 .wiki-content {
   margin-bottom: 30px;
+  width: 60%; 
 }
 
 .menu-item {
